@@ -1,0 +1,110 @@
+{
+    "Materia": [
+        {
+            "nome": "Física",
+            "professora": "Camila",
+            "aulas": "terça, quarta e sexta",
+            "id": 1
+        },
+        {
+            "nome": "Filosofia",
+            "professor": "Wellington",
+            "aulas": "segunda, terça e quinta",
+            "id": 2
+        },
+        {
+            "nome": "Português",
+            "professora": "Sara",
+            "aulas": "segunda e sexta",
+            "id": 3
+        },
+        {
+            "nome": "Artes",
+            "professor": "Joyce",
+            "aulas": "quinta e sexta",
+            "id": 4
+        }
+    ],
+
+    "Professores":[
+        {
+            "nome": "Karen Gomes",
+            "idade":32,
+            "materia": "Matemática",
+            "id": 1
+        },
+        {
+            "nome": "Jeferson Andrade",
+            "idade":41,
+            "materia": "Geografia",
+            "id": 2
+        },
+        {
+            "nome": "Sara Souza",
+            "idade":46,
+            "materia": "Português",
+            "id": 3
+        },
+        {
+            "nome": "Jonas Ribeiro",
+            "idade":49,
+            "materia": "Ciências",
+            "id": 4
+        }
+    ],
+
+
+    "Alunos":[
+        {
+            "nome": "Rosa Lucia de Souza",
+            "idade": 20,
+            "email": "luciarosa@gmail.com",
+            "id": "aluno1"
+        },
+        {
+            "nome": "Marcelle Medeiros",
+            "idade": 25,
+            "email": "marcellemedeiros@gmail.com",
+            "id": "aluno2"
+        },
+        {
+            "nome": "Eliza Pires dos Santos",
+            "idade": 20,
+            "email": "elizapires15@gmail.com",
+            "id": "aluno3"
+        },
+        {
+            "nome": "Mariana Santos Pereira",
+            "idade": 26,
+            "email": "marianapereira@gmail.com",
+            "id": "aluno4"
+        }
+    ],
+
+    "Funcionarios": [
+        {
+            "nome": "Jéssica Souza Paixão",
+            "funcao": "Auxiliar adimistrativo",
+            "area": "Administrativa",
+            "id": "func1"
+        },
+        {
+            "nome": "Paulo Roberto Santos Garcia",
+            "funcao": "vigilante",
+            "area": "segurança",
+            "id": "func2"
+        },
+        {
+            "nome": "Roberta Falcão",
+            "funcao": "tesoureira",
+            "area": "adminitrativa",
+            "id": "func3"
+        },
+        {
+            "nome": "Jorge Luiz Alberto",
+            "funcao": "inspetor",
+            "area": "sala de aula",
+            "id": "func4"
+        }
+    ]
+}
